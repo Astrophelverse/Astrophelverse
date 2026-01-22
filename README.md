@@ -28,14 +28,13 @@
 
 ### 📊 Tactical Data
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrophelverse&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrophelverse&layout=compact&theme=radical&hide=html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrophelverse&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrophelverse&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Astrophelverse&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrophelverse&theme=radical" />
 </p>
-
 
 ---
 
