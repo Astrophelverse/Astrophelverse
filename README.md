@@ -120,7 +120,7 @@ I want to be the one who sees it coming first.
 ## 📡 Channels
 
 <p align="left">
-  <a href="https://discord.gg/R4kNA4sr6U"><img src="https://img.shields.io/badge/Discord-Limbowalker-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/gESKgpC2"><img src="https://img.shields.io/badge/Discord-Limbowalker-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/astrophel.3"><img src="https://img.shields.io/badge/Instagram-astrophel.3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
