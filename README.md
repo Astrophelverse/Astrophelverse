@@ -1,42 +1,133 @@
-# 🌌 Astrophelverse
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Security+Researcher;Quantum+Systems+Explorer;Full-Stack+Architect;Web3+Core+Engineer" alt="Typing SVG" />
-</p>
+```
+█████╗ ███████╗████████╗██████╗  ██████╗ ██████╗ ██╗  ██╗███████╗██╗
+██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██║  ██║██╔════╝██║
+███████║███████╗   ██║   ██████╔╝██║   ██║██████╔╝███████║█████╗  ██║
+██╔══██║╚════██║   ██║   ██╔══██╗██║   ██║██╔═══╝ ██╔══██║██╔══╝  ██║
+██║  ██║███████║   ██║   ██║  ██║╚██████╔╝██║     ██║  ██║███████╗███████╗
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Smart+Contract+Security+Researcher;Solana+%2F+Rust+Protocol+Engineer;Founder+%40+Alcor+Protocol;Limbowalker+on-chain;Veritas+in+Umbra." alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🕵️‍♂️ The Intelligence
-> **Engineer operating at the intersection of probability and protocol.** - 🛡️ **Security Research:** Deconstructing monolithic logic and hunting for the "impossible" flaws in distributed systems. I don't just find bugs; I expose the assumptions that built them.
-- ⚛️ **Quantum Exploration:** Deeply obsessed with the transition from classical computing to the quantum era. Monitoring Qubits, entanglement logic, and the eventual collision with cryptography.
-- 🌐 **Web3 Ecosystems:** Architecting in the decentralized space—where code is law and the cost of error is absolute.
+```rust
+struct Astrophel {
+    alias:         "Limbowalker",          // web3 identity
+    location:      "West Africa",
+    role:          "Security Researcher + Protocol Builder",
+    building:      "Alcor Protocol",       // decentralized voice data marketplace
+    hunting:       ["Code4rena", "Cantina", "Immunefi"],
+    obsessed_with: ["zkML", "Solana", "Quantum Computing", "Breaking Things"],
+}
+```
 
 ---
 
-### 🛠️ The Arsenal
+## 🖥️ Activity Log
+
+```bash
+┌─[limbowalker@void]─[~/research]
+│
+├── [2026-03-07] $ cargo test --test solvency_limbo_poc -p library -- --nocapture
+│   └── test result: ok. 1 passed; 0 failed ✓
+│
+├── [2026-03-07] $ git commit -m "feat(alcor): initialized monorepo — the star awakens"
+│   └── 1 file changed, the journey begins ✓
+│
+├── [2026-03-06] $ alcor-cli apply --grant superteam-nigeria --project alcor
+│   └── status: submitted, awaiting signal...
+│
+├── [2026-03-05] $ cantina submit --protocol morpho-blue --severity HIGH
+│   └── status: under review [30d] ✓
+│
+├── [2026-03-01] $ code4rena audit --contest jupiter-lend
+│   └── findings: [REDACTED] — judges will tell ✓
+│
+├── [2026-02-14] $ ezkl prove --model voice_classifier.onnx
+│   └── proof generated: 847ms ✓
+│
+└── [NOW]        $ vim alcor/contracts/alcor_market.rs
+    └── building... █░░░░░░░░░ 10% ▋
+```
+
+---
+
+## 🌌 Alcor Protocol
+
+**The invisible data settlement layer.**
+
+```
+Local voice → zkML verify → Asymmetric encrypt → IPFS store → Solana CID → Instant pay
+```
+
+African language data is a multi-billion dollar gap in AI. Alcor pays locals
+to contribute verified voice data in Hausa, Swahili, Yoruba and more —
+verified on-chain, encrypted end-to-end, instant settlement.
+
+**Stack:** `Leptos (Rust PWA)` · `Axum` · `Solana/Anchor` · `EZKL zkML` · `IPFS/Storacha`
+
+[![Alcor Repo](https://img.shields.io/badge/Alcor-Protocol-E63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astrophelverse/alcor)
+
+---
+
+## 🛠️ Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/cosmos-%232E3148.svg?style=for-the-badge&logo=cosmos&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Foundry-FF3E00?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-FF3E00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZK%20%2F%20zkML-00D4AA?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Tactical Data
+## ⚛️ Quantum Obsession
+
+I track the collision between classical cryptography and quantum computing.
+When quantum error correction matures, every elliptic curve assumption breaks.
+I want to be the one who sees it coming first.
+
+`Qubits` · `Entanglement Logic` · `Post-Quantum Cryptography` · `Lattice-based schemes`
+
+---
+
+## 📊 Signal
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrophelverse&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrophelverse&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrophelverse&theme=github-dark-blue&hide_border=true&background=080b0f&ring=e63946&fire=e63946&currStreakLabel=00d4aa" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrophelverse&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Astrophelverse&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astrophelverse&theme=github_dark" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Astrophelverse&theme=github_dark" />
 </p>
 
 ---
 
-### 📫 Contact
-> *Encrypted communications only.* > Check my public repositories for the signal.
+## 📡 Channels
+
+<p align="left">
+  <a href="https://discord.gg/R4kNA4sr6U"><img src="https://img.shields.io/badge/Discord-Limbowalker-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/astrophel.3"><img src="https://img.shields.io/badge/Instagram-astrophel.3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+
+`Astrophel` · `aka Limbowalker` · *Veritas in Umbra — truth in the shadows*
+
+</div>
