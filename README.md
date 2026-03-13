@@ -65,8 +65,8 @@ Local voice → zkML verify → Asymmetric encrypt → IPFS store → Solana CID
 ```
 
 African language data is a multi-billion dollar gap in AI. Alcor pays locals
-to contribute verified voice data in Hausa, Swahili, Yoruba and more —
-verified on-chain, encrypted end-to-end, instant settlement.
+to contribute verified voice data —
+v erified on-chain, encrypted end-to-end, instant settlement.
 
 **Stack:** `Leptos (Rust PWA)` · `Axum` · `Solana/Anchor` · `EZKL zkML` · `IPFS/Storacha`
 
