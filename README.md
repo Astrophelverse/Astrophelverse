@@ -127,6 +127,6 @@ I want to be the one who sees it coming first.
 
 <div align="center">
 
-`Astrophel` · `aka Limbowalker` · *Veritas in Umbra — truth in the shadows*
+`Astrophel` · `aka Limbowalker` · *Veritas in Umbra • truth in the shadows*
 
 </div>
