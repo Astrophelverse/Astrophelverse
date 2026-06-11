@@ -44,7 +44,7 @@ Smart Contract Auditing  ·  zkML Research  ·  Solana Protocol Security
 
 ---
 
-## ⚛️ Quantum Obsession
+## ⚛️ Quantum 
 
 I track the collision between classical cryptography and quantum computing.
 When quantum error correction matures, every elliptic curve assumption breaks.
@@ -74,7 +74,7 @@ I want to be the one who sees it coming first.
 ## 📡 Channels
 
 <p align="left">
-  <a href="https://discord.gg/gESKgpC2"><img src="https://img.shields.io/badge/Discord-Limbowalker-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/gESKgpC2"><img src="https://img.shields.io/badge/Discord-._.astrophel._-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.instagram.com/astrophel.3"><img src="https://img.shields.io/badge/Instagram-astrophel.3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
