@@ -102,7 +102,7 @@ I want to be the one who sees it coming first.
 ## 📊 Signal
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrophelverse&theme=github-dark-blue&hide_border=true&background=080b0f&ring=e63946&fire=e63946&currStreakLabel=00d4aa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrophelverse&hide_border=true&background=080b0f&ring=e63946&fire=e63946&currStreakLabel=00d4aa&sideLabels=00d4aa&dates=8b8b8b&stroke=1a1f2e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
 <p align="center">
